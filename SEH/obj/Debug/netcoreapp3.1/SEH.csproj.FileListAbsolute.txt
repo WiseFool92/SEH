@@ -1,0 +1,6 @@
+C:\Users\watki\source\repos\SEH\SEH\obj\Debug\netcoreapp3.1\SEH.csprojAssemblyReference.cache
+C:\Users\watki\source\repos\SEH\SEH\obj\Debug\netcoreapp3.1\SEH.csproj.ResolveComReference.cache
+C:\Users\watki\source\repos\SEH\SEH\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\watki\source\repos\SEH\SEH\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\watki\source\repos\SEH\SEH\obj\Debug\netcoreapp3.1\SEH_MarkupCompile.cache
+C:\Users\watki\source\repos\SEH\SEH\obj\Debug\netcoreapp3.1\SEH_MarkupCompile.lref

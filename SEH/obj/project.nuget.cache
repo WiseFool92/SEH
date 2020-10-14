@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "lLuJfrHokw24vKIbaoADGMeJ5WyILftrWSyefGjLlSHXo4qTndcU37FTpfc0N0lubfeQ0UGWR7eSkIqRHeLuhg==",
+  "dgSpecHash": "ttBAIYiKth9w5JRJJ0Nj4GT9DS4jlmJhLBVJWtNzLJCkADmojloEFHJHx/RYH4pRMxo1LxHfL/jE1OD/4XCnDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\watki\\source\\repos\\SEH\\SEH\\SEH.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\watki\\.nuget\\packages\\ironwebscraper\\4.0.4.3\\ironwebscraper.4.0.4.3.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'IronWebScraper 4.0.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "IronWebScraper",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
