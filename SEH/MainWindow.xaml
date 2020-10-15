@@ -16,6 +16,8 @@
         <Image HorizontalAlignment="Left" Height="100" Margin="513,80,0,0" VerticalAlignment="Top" Width="100"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="665,80,0,0" VerticalAlignment="Top" Width="100"/>
         <Button Content="Create Slide" HorizontalAlignment="Left" Margin="357,336,0,0" VerticalAlignment="Top" Click="Button_Click_2"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="513,217,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="665,217,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
