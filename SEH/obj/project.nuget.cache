@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "QkiG9TcQ0p8SvUi2XuD1Dco2ac55T34+6wyzg7tPA8k/iUv8YtjyG52uietU75oGzbaKGJZ5MMc7/r6x6CKrAQ==",
+  "dgSpecHash": "1j4Qvz9hJfD93l8lkCrA67jAP1oOReFNzC9Q8JXC34G5xsSl4YZ5kdcpwgVLHxb9KjB4bXU8/qK3Ee/fUCfTTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\watki\\source\\repos\\SEH\\SEH\\SEH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\watki\\.nuget\\packages\\ironwebscraper\\4.0.4.3\\ironwebscraper.4.0.4.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\watki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\watki\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+    "C:\\Users\\watki\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\syncfusion.compression.net.core\\18.3.0.40\\syncfusion.compression.net.core.18.3.0.40.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\syncfusion.licensing\\18.3.0.40\\syncfusion.licensing.18.3.0.40.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\syncfusion.officechart.net.core\\18.3.0.40\\syncfusion.officechart.net.core.18.3.0.40.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\syncfusion.presentation.net.core\\18.3.0.40\\syncfusion.presentation.net.core.18.3.0.40.nupkg.sha512"
   ],
   "logs": [
     {
