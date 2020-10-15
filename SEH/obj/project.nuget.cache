@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1j4Qvz9hJfD93l8lkCrA67jAP1oOReFNzC9Q8JXC34G5xsSl4YZ5kdcpwgVLHxb9KjB4bXU8/qK3Ee/fUCfTTw==",
+  "dgSpecHash": "/YGCKaHgydJ9FlkwFFrRHcQmpSwMYbKajpcidHDBT/uxX8E2LLQDu/926Dhzt1aiKXX0wH6OpjdJv4GNn5hWGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\watki\\source\\repos\\SEH\\SEH\\SEH.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\watki\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\google.apis.cloudsearch.v1\\1.49.0.2098\\google.apis.cloudsearch.v1.1.49.0.2098.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
     "C:\\Users\\watki\\.nuget\\packages\\ironwebscraper\\4.0.4.3\\ironwebscraper.4.0.4.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\watki\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

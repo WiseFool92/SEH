@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Google.Apis.CloudSearch.v1": {
+              "target": "Package",
+              "version": "[1.49.0.2098, )"
+            },
+            "Google.Apis.Core": {
+              "target": "Package",
+              "version": "[1.49.0, )"
+            },
             "IronWebScraper": {
               "target": "Package",
               "version": "[4.0.4.3, )"
