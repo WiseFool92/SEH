@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ttBAIYiKth9w5JRJJ0Nj4GT9DS4jlmJhLBVJWtNzLJCkADmojloEFHJHx/RYH4pRMxo1LxHfL/jE1OD/4XCnDw==",
+  "dgSpecHash": "QkiG9TcQ0p8SvUi2XuD1Dco2ac55T34+6wyzg7tPA8k/iUv8YtjyG52uietU75oGzbaKGJZ5MMc7/r6x6CKrAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\watki\\source\\repos\\SEH\\SEH\\SEH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\watki\\.nuget\\packages\\ironwebscraper\\4.0.4.3\\ironwebscraper.4.0.4.3.nupkg.sha512",
-    "C:\\Users\\watki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\watki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\watki\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
   ],
   "logs": [
     {

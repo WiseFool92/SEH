@@ -9,13 +9,13 @@
     <Grid>
         <TextBox HorizontalAlignment="Left" Margin="331,36,0,0" Text="Computer Chips" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox HorizontalAlignment="Left" Margin="100,80,0,0" Text="Silicone Wafers" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" Height="192"/>
-        <Button Content="Generate Image Options" HorizontalAlignment="Left" Margin="324,311,0,0" VerticalAlignment="Top"/>
+        <Button Content="Generate Image Options" HorizontalAlignment="Left" Margin="324,311,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
         <Label Content="Title" HorizontalAlignment="Left" Margin="375,10,0,0" VerticalAlignment="Top"/>
         <Label Content="Contents" HorizontalAlignment="Left" Margin="183,49,0,0" VerticalAlignment="Top"/>
         <Label Content="Images" HorizontalAlignment="Left" Margin="617,49,0,0" VerticalAlignment="Top"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="513,80,0,0" VerticalAlignment="Top" Width="100"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="665,80,0,0" VerticalAlignment="Top" Width="100"/>
-        <Button Content="Create Slide" HorizontalAlignment="Left" Margin="357,336,0,0" VerticalAlignment="Top"/>
+        <Button Content="Create Slide" HorizontalAlignment="Left" Margin="357,336,0,0" VerticalAlignment="Top" Click="Button_Click_2"/>
 
     </Grid>
 </Window>
